@@ -1,0 +1,35 @@
+# LaTeX intermediate and output files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.idx
+*.ilg
+*.ind
+*.inx
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.run.xml
+*.nav
+*.snm
+*.vrb
+*.xdv
+
+# Editor backup files
+*~
+*.bak
+*.swp
+*.tmp
+
+# PDF files
+*.pdf
+
+# Auxiliary directories
+_build/
+output/
